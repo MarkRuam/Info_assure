@@ -13,6 +13,13 @@ by Group 11: Gerald Carique, John Mark Ruam, Randolf Brigola, Arnold Rei Sejera,
 * **Step 5:** Click Edit Settings from the pop-up.
   <img src= "https://github.com/MarkRuam/Info_assure/assets/146324538/38445234-37ee-4224-9601-48b5e9dcdab7" width= "70%">
 * **Step 6:** Complete all the fields on the General tab, including the hostname, username/password, wireless LAN details (if you intend to use Wi-Fi), and locale settings.
-  <img src= "
+  <img src= "https://github.com/MarkRuam/Info_assure/assets/146324538/b1c0a2da-bcd4-4c9c-9b73-9f7785596db2" width= "70%">
+* **Step 7:** Navigate to the Services tab and switch the "Enable SSH" option to the "On" position. Then, choose "Use password" from the available options.
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/a9220edd-fd70-42c9-8d5e-e37891c94e73" width="70%">
+* **Step 8:** Press "Yes" to apply the OS customization settings. Confirm your intention to write to the microSD card by clicking "Yes."
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/bcbe3a0c-cd55-42d3-90ac-55770135e021" width="70%">
+
+
+
 
 
