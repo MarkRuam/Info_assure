@@ -22,7 +22,9 @@ by Group 11: Gerald Carique, John Mark Ruam, Randolf Brigola, Arnold Rei Sejera,
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/49eb3d28-0c7f-491a-8606-40b0d5e239a6" width="70%">
 ### 2. Connecting to Raspberry Pi via SSH using the terminal. 
 * **Step 1:** Discover the IP address of your Raspberry Pi by employing a network scanning tool or checking your router's list of connected devices to identify the assigned IP address.
-
+* **Step 2:** Access the terminal on your computer and establish an SSH connection to the Pi with the following command, substituting `<pi_ip>` with your Raspberry Pi's IP address: `ssh user@<pi_ip>`. When prompted, enter the default password (raspberry).
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/c9f6434b-fef8-4a3a-a310-6260810f8801" width="70%"> 
+* **Step 3** Execute the following command to update and upgrade package lists: sudo apt update, sudo apt upgrade
 
 
 
