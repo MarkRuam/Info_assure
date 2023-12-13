@@ -18,7 +18,10 @@ by Group 11: Gerald Carique, John Mark Ruam, Randolf Brigola, Arnold Rei Sejera,
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/a9220edd-fd70-42c9-8d5e-e37891c94e73" width="70%">
 * **Step 8:** Press "Yes" to apply the OS customization settings. Confirm your intention to write to the microSD card by clicking "Yes."
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/bcbe3a0c-cd55-42d3-90ac-55770135e021" width="70%">
-
+* **Step 9:** The process will take a few minutes as the system downloads the OS and writes it to your card. It will appear as completed when the verification and writing processes are finished.
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/49eb3d28-0c7f-491a-8606-40b0d5e239a6" width="70%">
+### 2. Connecting to Raspberry Pi via SSH using the terminal. 
+* **Step 1:** Discover the IP address of your Raspberry Pi by employing a network scanning tool or checking your router's list of connected devices to identify the assigned IP address.
 
 
 
