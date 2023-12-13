@@ -38,6 +38,12 @@ sudo apt install phpmyadmin.
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/1bc0e75f-22d1-4bc4-9f72-628af94011b7">
 * **Step 3:** After installing Apache, next run the sudo apt install mariadb-server on your terminal
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/a6b22191-9475-43f3-a88b-e6f005c3ac22">
-* **Step 4:** After installing the mariadb-server, next run sudo mysql_secure_installation on you terminal. 
+* **Step 4:** After installing the mariadb-server, next run sudo mysql
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/e470d060-0a81-46a9-88d9-7ef0fae0761b">
+* **Step 5:** next install php by typing "sudo apt install php"
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/a2172e6a-8e9d-4a77-9900-6b5ae80fba10">
+ 
+
+
 
 
