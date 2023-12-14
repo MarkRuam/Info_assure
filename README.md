@@ -57,7 +57,9 @@ sudo apt install phpmyadmin.
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/bbff3f99-f68f-45aa-92fd-55992f27fa95">
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/bbb67db6-27ff-42c2-b803-f71abf06e1ee">
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/ebfdfeeb-fdc2-4464-af45-25d83351b1ce">
-  ### 3. Enabling and controlling Raspberry Pi using VNC
+### 3. Enabling and controlling Raspberry Pi using VNC  
+* **Step 1:** Download VNC viewer. Input the ip address of raspberry pi and you can now access the raspberry pi with GUI
+  
 
 
 
