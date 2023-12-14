@@ -1,5 +1,5 @@
 # Documentation
-by Group 11: Gerald Carique, John Mark Ruam, Randolf Brigola, Arnold Rei Sejera, John Paul Quial
+by Group 11: Gerald Carique, John Mark Ruam, Randolf Brigola, Arnold Rei Sejera
 
 .    
 ##  Step-by-step documentation on how to do the following:
