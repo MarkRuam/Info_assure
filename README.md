@@ -38,10 +38,36 @@ sudo apt install phpmyadmin.
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/1bc0e75f-22d1-4bc4-9f72-628af94011b7">
 * **Step 3:** After installing Apache, next run the sudo apt install mariadb-server on your terminal
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/a6b22191-9475-43f3-a88b-e6f005c3ac22">
-* **Step 4:** After installing the mariadb-server, next run sudo mysql
+* **Step 4:** After installing the mariadb-server, next run sudo mysql and select "Apache2"
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/e470d060-0a81-46a9-88d9-7ef0fae0761b">
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/b445238b-c289-4937-ba40-c7557b6627d4">
 * **Step 5:** next install php by typing "sudo apt install php"
   <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/a2172e6a-8e9d-4a77-9900-6b5ae80fba10">
+* **Step 6:** Install phpmyadmin and configure 
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/0d1a00b6-f50a-4e22-b375-af10d97a12eb">
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/aa9fd313-91bd-4309-8877-950cbc0d6911">
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/970bb997-e628-4f55-844f-78e2a5319403">
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/0b49776c-4d52-4f2a-bf80-c59077448fbf">
+* **Step 7:** Locate /stec/apache2, open apache2.conf then Include /etc/phpmyadmin/apache/conf
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/788d2463-1f91-4736-b01a-e7c70da6b7fd">
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/8c3b46ea-f8a5-4b09-860d-a5b29339e0b3">
+* **Step 8:** Restart apache2 then Check apache2 status
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/65eef558-ccfc-4601-9437-c6bd928f0d38">
+* **Step 9:** Try to access web server then input the assign username and password during installation of mysql in **Step 4**. Then You can access now the Database.
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/bbff3f99-f68f-45aa-92fd-55992f27fa95">
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/bbb67db6-27ff-42c2-b803-f71abf06e1ee">
+  <img src="https://github.com/MarkRuam/Info_assure/assets/146324538/ebfdfeeb-fdc2-4464-af45-25d83351b1ce">
+  ### 3. Enabling and controlling Raspberry Pi using VNC
+
+
+
+  
+
+  
+
+
+
+
  
 
 
